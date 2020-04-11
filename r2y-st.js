@@ -233,16 +233,16 @@
           keyboardTip: 'Press space to see next',
           visitLink: 'Visit link',
           time: {
-            ago: 'ago',
-            hour: 'hour ago',
-            hours: 'hours ago',
-            minute: 'minute ago',
-            minutes: 'minutes ago',
-            fromnow: 'from now',
-            seconds: 'seconds ago',
-            yesterday: 'yesterday',
-            tomorrow: 'tomorrow',
-            days: 'days ago'
+            ago: 'منذ',
+      hour:'ساعة', 
+      hours:'ساعات', 
+      minute:'دقيقة', 
+      minutes:'دقائق', 
+      fromnow: 'الأن', 
+      seconds:'ثواني', 
+      yesterday: 'أمس', 
+      tomorrow: 'غداً', 
+      days:'أيام'
           }
         }
       };
